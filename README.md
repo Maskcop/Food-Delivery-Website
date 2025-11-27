@@ -3,10 +3,10 @@
 
 - This repository hosts the source code for Foodingo, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
-## Demo
 
-- User Panel: [https://foodingofooddelivery.onrender.com/](https://foodingofooddelivery.onrender.com/)
-- Admin Panel: 
+
+
+ 
 
 ## Features
 
